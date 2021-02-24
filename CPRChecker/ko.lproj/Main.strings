@@ -1,0 +1,54 @@
+
+/* Class = "UIButton"; normalTitle = "30 Times"; ObjectID = "17f-id-3JO"; */
+"17f-id-3JO.normalTitle" = "30 번째 시간";
+
+/* Class = "UILabel"; text = "Namber of taps"; ObjectID = "2dV-LQ-m1N"; */
+"2dV-LQ-m1N.text" = "CPR 횟수";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "5Xi-e3-0tj"; */
+"5Xi-e3-0tj.text" = "00";
+
+/* Class = "UILabel"; text = "Tap to START!"; ObjectID = "81L-WP-D7w"; */
+"81L-WP-D7w.text" = "누르면 시작합니다.!";
+
+/* Class = "UIButton"; normalTitle = "START"; ObjectID = "84I-MO-pWd"; */
+"84I-MO-pWd.normalTitle" = "시작";
+
+/* Class = "UIButton"; normalTitle = "Free Time"; ObjectID = "Cqn-bn-FgH"; */
+"Cqn-bn-FgH.normalTitle" = "자유 시간";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "SYR-e1-L3u"; */
+"SYR-e1-L3u.normalTitle" = "초기화";
+
+/* Class = "UIButton"; normalTitle = "Check"; ObjectID = "Tip-us-A3c"; */
+"Tip-us-A3c.normalTitle" = "체크합시다";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "UQ2-sc-HNc"; */
+"UQ2-sc-HNc.text" = "00";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "dbS-0b-wCu"; */
+"dbS-0b-wCu.text" = "00";
+
+/* Class = "UILabel"; text = "110"; ObjectID = "gRF-pw-0cI"; */
+"gRF-pw-0cI.text" = "110";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "hCC-MJ-Wbr"; */
+"hCC-MJ-Wbr.text" = ":";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "p6U-EQ-cEQ"; */
+"p6U-EQ-cEQ.text" = "00";
+
+/* Class = "UILabel"; text = "Tap to START!"; ObjectID = "s1R-d8-wmz"; */
+"s1R-d8-wmz.text" = "누르면 시작합니다!";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "uKu-wm-ceE"; */
+"uKu-wm-ceE.normalTitle" = "초기화";
+
+/* Class = "UILabel"; text = "Namber of taps"; ObjectID = "vIg-F6-3Wm"; */
+"vIg-F6-3Wm.text" = "CPR 횟수";
+
+/* Class = "UIButton"; normalTitle = "Training"; ObjectID = "w6I-Wb-XLD"; */
+"w6I-Wb-XLD.normalTitle" = "훈련";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "zdQ-Zf-OEa"; */
+"zdQ-Zf-OEa.text" = ":";

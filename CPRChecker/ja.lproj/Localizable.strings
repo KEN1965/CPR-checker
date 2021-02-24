@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  CPRChecker
+
+  Created by KEN on 2019/11/09.
+  Copyright © 2019 KEN. All rights reserved.
+*/
+"Tap to Start!" = "タップしてスタート!";
+"Namber of taps" = "タップ回数";
+"Times" = "回";
+"START" = "スタート";
+"STOP" = "ストップ";
+"30 Times" = "30 回";

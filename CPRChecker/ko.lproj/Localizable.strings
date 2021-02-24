@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  CPRChecker
+
+  Created by KEN on 2019/11/09.
+  Copyright © 2019 KEN. All rights reserved.
+*/
+"Tap to Start!" = "누르면 시작합니다!";
+"Namber of taps" = "CPR 횟수";
+"Times" = "번째 시간";
+"START" = "시작";
+"STOP" = "중지";
+"30 Times" = "30 번째 시간";

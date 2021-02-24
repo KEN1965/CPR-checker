@@ -13,10 +13,17 @@
 		BE5CF00D237400F700BDB354 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BE5CF00B237400F700BDB354 /* Main.storyboard */; };
 		BE5CF00F237400FA00BDB354 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE5CF00E237400FA00BDB354 /* Assets.xcassets */; };
 		BE5CF012237400FA00BDB354 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BE5CF010237400FA00BDB354 /* LaunchScreen.storyboard */; };
+		BE5CF01A2374F5E700BDB354 /* sound1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BE5CF0192374F5E700BDB354 /* sound1.mp3 */; };
+		BE5CF01C23753F4B00BDB354 /* SkillCheckViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE5CF01B23753F4B00BDB354 /* SkillCheckViewController.swift */; };
+		BE5CF01E2375408500BDB354 /* UIColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE5CF01D2375408500BDB354 /* UIColorExtension.swift */; };
+		BE5CF020237625A500BDB354 /* SkillCheckTimeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE5CF01F237625A500BDB354 /* SkillCheckTimeViewController.swift */; };
+		BE5CF02223762E0800BDB354 /* SkillTrainingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE5CF02123762E0800BDB354 /* SkillTrainingViewController.swift */; };
+		BE5CF02C23769A9B00BDB354 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = BE5CF02E23769A9B00BDB354 /* Localizable.strings */; };
+		BE910EE3239B68770067DCDE /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE910EE2239B68770067DCDE /* WebViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		BE5CF002237400F700BDB354 /* CPRChecker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CPRChecker.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BE5CF002237400F700BDB354 /* CPR checker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CPR checker.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE5CF005237400F700BDB354 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BE5CF007237400F700BDB354 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		BE5CF009237400F700BDB354 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -24,6 +31,27 @@
 		BE5CF00E237400FA00BDB354 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BE5CF011237400FA00BDB354 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BE5CF013237400FA00BDB354 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BE5CF0192374F5E700BDB354 /* sound1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sound1.mp3; sourceTree = "<group>"; };
+		BE5CF01B23753F4B00BDB354 /* SkillCheckViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkillCheckViewController.swift; sourceTree = "<group>"; };
+		BE5CF01D2375408500BDB354 /* UIColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIColorExtension.swift; sourceTree = "<group>"; };
+		BE5CF01F237625A500BDB354 /* SkillCheckTimeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkillCheckTimeViewController.swift; sourceTree = "<group>"; };
+		BE5CF02123762E0800BDB354 /* SkillTrainingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkillTrainingViewController.swift; sourceTree = "<group>"; };
+		BE5CF029237699F300BDB354 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Main.strings; sourceTree = "<group>"; };
+		BE5CF02D23769A9B00BDB354 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BE5CF02F23769AAF00BDB354 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BE910EE2239B68770067DCDE /* WebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
+		BEC9EC502376A4BF00FD48A7 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Main.strings"; sourceTree = "<group>"; };
+		BEC9EC512376A4BF00FD48A7 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		BEC9EC522376B1BF00FD48A7 /* zh-HK */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-HK"; path = "zh-HK.lproj/Main.strings"; sourceTree = "<group>"; };
+		BEC9EC532376B1C000FD48A7 /* zh-HK */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-HK"; path = "zh-HK.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		BEC9EC542376B35600FD48A7 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/Main.strings; sourceTree = "<group>"; };
+		BEC9EC552376B35600FD48A7 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BEC9EC5623777F7000FD48A7 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Main.strings; sourceTree = "<group>"; };
+		BEC9EC5723777F7100FD48A7 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BEC9EC582377812D00FD48A7 /* th */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = th; path = th.lproj/Main.strings; sourceTree = "<group>"; };
+		BEC9EC592377812D00FD48A7 /* th */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = th; path = th.lproj/Localizable.strings; sourceTree = "<group>"; };
+		BEC9EC5A2377849E00FD48A7 /* pt-BR */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-BR"; path = "pt-BR.lproj/Main.strings"; sourceTree = "<group>"; };
+		BEC9EC5B2377849F00FD48A7 /* pt-BR */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-BR"; path = "pt-BR.lproj/Localizable.strings"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,7 +76,7 @@
 		BE5CF003237400F700BDB354 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BE5CF002237400F700BDB354 /* CPRChecker.app */,
+				BE5CF002237400F700BDB354 /* CPR checker.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -56,10 +84,17 @@
 		BE5CF004237400F700BDB354 /* CPRChecker */ = {
 			isa = PBXGroup;
 			children = (
+				BE5CF0192374F5E700BDB354 /* sound1.mp3 */,
 				BE5CF005237400F700BDB354 /* AppDelegate.swift */,
 				BE5CF007237400F700BDB354 /* SceneDelegate.swift */,
 				BE5CF009237400F700BDB354 /* ViewController.swift */,
+				BE910EE2239B68770067DCDE /* WebViewController.swift */,
 				BE5CF00B237400F700BDB354 /* Main.storyboard */,
+				BE5CF02E23769A9B00BDB354 /* Localizable.strings */,
+				BE5CF02123762E0800BDB354 /* SkillTrainingViewController.swift */,
+				BE5CF01F237625A500BDB354 /* SkillCheckTimeViewController.swift */,
+				BE5CF01B23753F4B00BDB354 /* SkillCheckViewController.swift */,
+				BE5CF01D2375408500BDB354 /* UIColorExtension.swift */,
 				BE5CF00E237400FA00BDB354 /* Assets.xcassets */,
 				BE5CF010237400FA00BDB354 /* LaunchScreen.storyboard */,
 				BE5CF013237400FA00BDB354 /* Info.plist */,
@@ -70,9 +105,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BE5CF001237400F700BDB354 /* CPRChecker */ = {
+		BE5CF001237400F700BDB354 /* CPR checker */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BE5CF016237400FA00BDB354 /* Build configuration list for PBXNativeTarget "CPRChecker" */;
+			buildConfigurationList = BE5CF016237400FA00BDB354 /* Build configuration list for PBXNativeTarget "CPR checker" */;
 			buildPhases = (
 				BE5CEFFE237400F700BDB354 /* Sources */,
 				BE5CEFFF237400F700BDB354 /* Frameworks */,
@@ -82,9 +117,9 @@
 			);
 			dependencies = (
 			);
-			name = CPRChecker;
+			name = "CPR checker";
 			productName = CPRChecker;
-			productReference = BE5CF002237400F700BDB354 /* CPRChecker.app */;
+			productReference = BE5CF002237400F700BDB354 /* CPR checker.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -94,7 +129,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1120;
-				LastUpgradeCheck = 1120;
+				LastUpgradeCheck = 1200;
 				ORGANIZATIONNAME = KEN;
 				TargetAttributes = {
 					BE5CF001237400F700BDB354 = {
@@ -102,20 +137,27 @@
 					};
 				};
 			};
-			buildConfigurationList = BE5CEFFD237400F700BDB354 /* Build configuration list for PBXProject "CPRChecker" */;
+			buildConfigurationList = BE5CEFFD237400F700BDB354 /* Build configuration list for PBXProject "CPR checker" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
+				ja,
+				"zh-Hans",
+				"zh-HK",
+				ko,
+				es,
+				th,
+				"pt-BR",
 			);
 			mainGroup = BE5CEFF9237400F700BDB354;
 			productRefGroup = BE5CF003237400F700BDB354 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BE5CF001237400F700BDB354 /* CPRChecker */,
+				BE5CF001237400F700BDB354 /* CPR checker */,
 			);
 		};
 /* End PBXProject section */
@@ -125,8 +167,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BE5CF02C23769A9B00BDB354 /* Localizable.strings in Resources */,
 				BE5CF012237400FA00BDB354 /* LaunchScreen.storyboard in Resources */,
 				BE5CF00F237400FA00BDB354 /* Assets.xcassets in Resources */,
+				BE5CF01A2374F5E700BDB354 /* sound1.mp3 in Resources */,
 				BE5CF00D237400F700BDB354 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -139,8 +183,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				BE5CF00A237400F700BDB354 /* ViewController.swift in Sources */,
+				BE5CF01C23753F4B00BDB354 /* SkillCheckViewController.swift in Sources */,
 				BE5CF006237400F700BDB354 /* AppDelegate.swift in Sources */,
 				BE5CF008237400F700BDB354 /* SceneDelegate.swift in Sources */,
+				BE5CF02223762E0800BDB354 /* SkillTrainingViewController.swift in Sources */,
+				BE5CF020237625A500BDB354 /* SkillCheckTimeViewController.swift in Sources */,
+				BE5CF01E2375408500BDB354 /* UIColorExtension.swift in Sources */,
+				BE910EE3239B68770067DCDE /* WebViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -151,6 +200,13 @@
 			isa = PBXVariantGroup;
 			children = (
 				BE5CF00C237400F700BDB354 /* Base */,
+				BE5CF029237699F300BDB354 /* ja */,
+				BEC9EC502376A4BF00FD48A7 /* zh-Hans */,
+				BEC9EC522376B1BF00FD48A7 /* zh-HK */,
+				BEC9EC542376B35600FD48A7 /* ko */,
+				BEC9EC5623777F7000FD48A7 /* es */,
+				BEC9EC582377812D00FD48A7 /* th */,
+				BEC9EC5A2377849E00FD48A7 /* pt-BR */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -163,6 +219,21 @@
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
+		BE5CF02E23769A9B00BDB354 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BE5CF02D23769A9B00BDB354 /* ja */,
+				BE5CF02F23769AAF00BDB354 /* en */,
+				BEC9EC512376A4BF00FD48A7 /* zh-Hans */,
+				BEC9EC532376B1C000FD48A7 /* zh-HK */,
+				BEC9EC552376B35600FD48A7 /* ko */,
+				BEC9EC5723777F7100FD48A7 /* es */,
+				BEC9EC592377812D00FD48A7 /* th */,
+				BEC9EC5B2377849F00FD48A7 /* pt-BR */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
@@ -170,6 +241,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -192,6 +264,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -216,7 +289,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -230,6 +303,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -252,6 +326,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -270,7 +345,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -285,14 +360,17 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1.11;
 				DEVELOPMENT_TEAM = 87M4KMG4N4;
 				INFOPLIST_FILE = CPRChecker/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.11;
 				PRODUCT_BUNDLE_IDENTIFIER = com.KEN.CPRChecker;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "CPR checker";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -303,14 +381,17 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1.11;
 				DEVELOPMENT_TEAM = 87M4KMG4N4;
 				INFOPLIST_FILE = CPRChecker/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.11;
 				PRODUCT_BUNDLE_IDENTIFIER = com.KEN.CPRChecker;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "CPR checker";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -319,7 +400,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BE5CEFFD237400F700BDB354 /* Build configuration list for PBXProject "CPRChecker" */ = {
+		BE5CEFFD237400F700BDB354 /* Build configuration list for PBXProject "CPR checker" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BE5CF014237400FA00BDB354 /* Debug */,
@@ -328,7 +409,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BE5CF016237400FA00BDB354 /* Build configuration list for PBXNativeTarget "CPRChecker" */ = {
+		BE5CF016237400FA00BDB354 /* Build configuration list for PBXNativeTarget "CPR checker" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BE5CF017237400FA00BDB354 /* Debug */,

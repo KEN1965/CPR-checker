@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  CPRChecker
+
+  Created by KEN on 2019/11/09.
+  Copyright © 2019 KEN. All rights reserved.
+*/
+"Tap to Start!" = "Clique para começar!";
+"Namber of taps" = "Número de Torneiras";
+"Times" = "Vezes";
+"START" = "começar";
+"STOP" = "PARE";
+"30 Times" = "30 Vezes";

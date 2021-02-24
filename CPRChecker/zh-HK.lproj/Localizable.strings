@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  CPRChecker
+
+  Created by KEN on 2019/11/09.
+  Copyright © 2019 KEN. All rights reserved.
+*/
+"Tap to Start!" = "點擊開始!";
+"Namber of taps" = "水龍頭數量";
+"Times" = "時報";
+"START" = "開始";
+"STOP" = "停止";
+"30 Times" = "30 時報";

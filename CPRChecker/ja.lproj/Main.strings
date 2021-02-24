@@ -1,0 +1,54 @@
+
+/* Class = "UIButton"; normalTitle = "30 Times"; ObjectID = "17f-id-3JO"; */
+"17f-id-3JO.normalTitle" = "30　回";
+
+/* Class = "UILabel"; text = "Namber of taps"; ObjectID = "2dV-LQ-m1N"; */
+"2dV-LQ-m1N.text" = "タップ回数";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "5Xi-e3-0tj"; */
+"5Xi-e3-0tj.text" = "00";
+
+/* Class = "UILabel"; text = "Tap to START!"; ObjectID = "81L-WP-D7w"; */
+"81L-WP-D7w.text" = "タップしてスタート!";
+
+/* Class = "UIButton"; normalTitle = "START"; ObjectID = "84I-MO-pWd"; */
+"84I-MO-pWd.normalTitle" = "スタート";
+
+/* Class = "UIButton"; normalTitle = "Free Time"; ObjectID = "Cqn-bn-FgH"; */
+"Cqn-bn-FgH.normalTitle" = "フリータイム";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "SYR-e1-L3u"; */
+"SYR-e1-L3u.normalTitle" = "リセット";
+
+/* Class = "UIButton"; normalTitle = "  CPR\nCheck"; ObjectID = "Tip-us-A3c"; */
+"Tip-us-A3c.normalTitle" = "チェック";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "UQ2-sc-HNc"; */
+"UQ2-sc-HNc.text" = "00";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "dbS-0b-wCu"; */
+"dbS-0b-wCu.text" = "00";
+
+/* Class = "UILabel"; text = "110"; ObjectID = "gRF-pw-0cI"; */
+"gRF-pw-0cI.text" = "110";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "hCC-MJ-Wbr"; */
+"hCC-MJ-Wbr.text" = ":";
+
+/* Class = "UILabel"; text = "00"; ObjectID = "p6U-EQ-cEQ"; */
+"p6U-EQ-cEQ.text" = "00";
+
+/* Class = "UILabel"; text = "Tap to START!"; ObjectID = "s1R-d8-wmz"; */
+"s1R-d8-wmz.text" = "タップしてスタート!";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "uKu-wm-ceE"; */
+"uKu-wm-ceE.normalTitle" = "リセット";
+
+/* Class = "UILabel"; text = "Namber of taps"; ObjectID = "vIg-F6-3Wm"; */
+"vIg-F6-3Wm.text" = "タップ回数";
+
+/* Class = "UIButton"; normalTitle = "   CPR\nTraining"; ObjectID = "w6I-Wb-XLD"; */
+"w6I-Wb-XLD.normalTitle" = "トレーニング";
+
+/* Class = "UILabel"; text = ":"; ObjectID = "zdQ-Zf-OEa"; */
+"zdQ-Zf-OEa.text" = ":";

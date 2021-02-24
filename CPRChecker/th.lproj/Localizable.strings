@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  CPRChecker
+
+  Created by KEN on 2019/11/09.
+  Copyright © 2019 KEN. All rights reserved.
+*/
+"Tap to Start!" = "แตะเพื่อเริ่ม!";
+"Namber of taps" = "จำนวนก๊อก";
+"Times" = "ไทม์ส";
+"START" = "เริ่มต้น";
+"STOP" = "หยุด";
+"30 Times" = "30 ไทม์ส";
